@@ -1,0 +1,63 @@
+# Copyright (C) 2024 Bipin Bheda
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spam Email Domain Exclusion for CF7 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/spam-email-domain-exclusion-cf7\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-18T17:46:23+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: spam-email-domain-exclusion-cf7\n"
+
+#. Plugin Name of the plugin
+msgid "Spam Email Domain Exclusion for CF7"
+msgstr ""
+
+#. Description of the plugin
+msgid "Spam Email Domain Exclusion for CF7 provides a seamless solution to block submissions from specific email domains."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bipin Bheda"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bipin54.wordpress.com/"
+msgstr ""
+
+#: inc/class-sede-cf7-global-option.php:37
+#: inc/class-sede-cf7-global-option.php:38
+#: inc/class-sede-cf7.php:39
+msgid "Exclude Domains"
+msgstr ""
+
+#: inc/class-sede-cf7-global-option.php:86
+#: inc/class-sede-cf7.php:54
+msgid "Excluded Domains"
+msgstr ""
+
+#: inc/class-sede-cf7-global-option.php:94
+msgid "List all Domains with comma-separated. For Example: .abc, .xxx"
+msgstr ""
+
+#: inc/class-sede-cf7.php:51
+msgid "Add Blacklisted contact from submission's email domain."
+msgstr ""
+
+#: inc/class-sede-cf7.php:60
+msgid "The domains should be comma-separated."
+msgstr ""
+
+#: inc/class-sede-cf7.php:125
+msgid "The domain of the email address is not allowed."
+msgstr ""
+
+#. translators: %s: search term to update contact from url
+#: spam-email-domain-exclusion-cf7.php:35
+msgid "The %s should be activated to use this addone."
+msgstr ""
